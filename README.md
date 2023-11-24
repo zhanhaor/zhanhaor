@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=GameLover+%26+Programer+%26+Designer;Have+funnnnnnnnnnn!!!!!)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=GameLover+%26+Programer+%26+Designer;Have+funnnnnnnnnnn!!!!!" alt="Typing SVG" /></a>
