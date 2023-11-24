@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=GameLover+%26+Programer+%26+Designer;Have+funnnnnnnnnnn!!!!!" alt="Typing SVG" /></a>>
+<!--<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=GameLover+%26+Programer+%26+Designer;Have+funnnnnnnnnnn!!!!!" alt="Typing SVG" /></a>-->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=2000&color=E5F700&vCenter=true&random=true&width=435&lines=Tech+Otakus+Changing+The+World" alt="Typing SVG" /></a>
 <div align="center"><img src="https://raw.githubusercontent.com/Achuan-2/Achuan-2/main/assets/github-contribution-grid-snake.svg" ></div>
