@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=GameLover+%26+Programer+%26+Designer;Have+funnnnnnnnnnn!!!!!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">J<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=GameLover+%26+Programer+%26+Designer;Have+funnnnnnnnnnn!!!!!" alt="Typing SVG" /></a>
+
+<div class="tenor-gif-embed" data-postid="25597129" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/cat-typing-gif-gif-25597129">Cat Typing Gif GIF</a>from <a href="https://tenor.com/search/cat+typing+gif-gifs">Cat Typing Gif GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
