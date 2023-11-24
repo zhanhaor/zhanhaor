@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=A+dedicated+Game+Programmer+and+Game+Designer+with+a+passion+for+crafting+immersive+gaming+experiences.)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=GameLover+%26+Programer+%26+Designer;Have+funnnnnnnnnnn!!!!!)](https://git.io/typing-svg)
