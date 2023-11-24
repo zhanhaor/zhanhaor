@@ -17,6 +17,3 @@ Here are some ideas to get you started:
 
 <a href="https://git.io/typing-svg">J<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=GameLover+%26+Programer+%26+Designer;Have+funnnnnnnnnnn!!!!!" alt="Typing SVG" /></a>
 
-
-
-<a href="https://tenor.com/search/cat+typing+gif-gifs">Cat Typing Gif GIFs</a></div> 
